@@ -1,0 +1,110 @@
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\ProyectoISW.exe.config
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\ProyectoISW.exe
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\ProyectoISW.pdb
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\Npgsql.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Buffers.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Collections.Immutable.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Memory.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Text.Json.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Threading.Channels.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.ValueTuple.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\Npgsql.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Buffers.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Collections.Immutable.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Memory.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Text.Json.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Threading.Channels.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\System.ValueTuple.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.csproj.AssemblyReference.cache
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Form1.resources
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Properties.Resources.resources
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.csproj.GenerateResource.cache
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.csproj.CoreCompileInputs.cache
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.csproj.CopyComplete
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.exe
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.pdb
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\CircularProgressBar.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\WinFormAnimation.dll
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\bin\Debug\CircularProgressBar.xml
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Login.resources
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Menu.resources
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.PlanillaDeSueldos.resources
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Administracion.resources
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Informacion.resources
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Personal.resources
+C:\Users\joelb\source\repos\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Registros.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\ProyectoISW.exe.config
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\ProyectoISW.exe
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\ProyectoISW.pdb
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\CircularProgressBar.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\Npgsql.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Buffers.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Collections.Immutable.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Memory.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Text.Json.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Threading.Channels.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.ValueTuple.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\WinFormAnimation.dll
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\CircularProgressBar.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\Npgsql.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Buffers.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Collections.Immutable.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Memory.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Text.Json.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Threading.Channels.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\bin\Debug\System.ValueTuple.xml
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Administracion.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Form1.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Informacion.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Login.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Menu.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Personal.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.PlanillaDeSueldos.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Properties.Resources.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Registros.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.csproj.CopyComplete
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.exe
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.pdb
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.RegistrosFaltas.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.RegistrosDom.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Usuario.resources
+C:\Users\marco\Desktop\Nueva carpeta\Soft\ProyectoISW\ProyectoISW\obj\Debug\ProyectoISW.Aportes.resources
