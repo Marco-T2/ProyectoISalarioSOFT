@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label9 = new System.Windows.Forms.Label();
@@ -282,8 +282,8 @@
             // 
             this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.AllowUserToDeleteRows = false;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.dataGridView1.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.dataGridView1.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle5;
             this.dataGridView1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
@@ -292,36 +292,36 @@
             this.dataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dataGridView1.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.None;
             this.dataGridView1.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.InactiveBorder;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Dubai", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Dubai", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle6;
             this.dataGridView1.ColumnHeadersHeight = 45;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Dubai", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle7.Font = new System.Drawing.Font("Dubai", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle7;
             this.dataGridView1.EnableHeadersVisualStyles = false;
             this.dataGridView1.Location = new System.Drawing.Point(33, 357);
             this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dataGridView1.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView1.RowHeadersDefaultCellStyle = dataGridViewCellStyle8;
             this.dataGridView1.RowHeadersVisible = false;
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 40;
@@ -339,7 +339,7 @@
             this.btnGuardarMod.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
             this.btnGuardarMod.ForeColor = System.Drawing.Color.White;
             this.btnGuardarMod.Location = new System.Drawing.Point(853, 423);
-            this.btnGuardarMod.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnGuardarMod.Margin = new System.Windows.Forms.Padding(4);
             this.btnGuardarMod.Name = "btnGuardarMod";
             this.btnGuardarMod.Size = new System.Drawing.Size(181, 37);
             this.btnGuardarMod.TabIndex = 17;
@@ -355,7 +355,7 @@
             this.btnCancelar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
             this.btnCancelar.ForeColor = System.Drawing.Color.White;
             this.btnCancelar.Location = new System.Drawing.Point(853, 546);
-            this.btnCancelar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnCancelar.Margin = new System.Windows.Forms.Padding(4);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(181, 37);
             this.btnCancelar.TabIndex = 16;
@@ -371,12 +371,13 @@
             this.btnEliminarRegistro.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
             this.btnEliminarRegistro.ForeColor = System.Drawing.Color.White;
             this.btnEliminarRegistro.Location = new System.Drawing.Point(853, 484);
-            this.btnEliminarRegistro.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnEliminarRegistro.Margin = new System.Windows.Forms.Padding(4);
             this.btnEliminarRegistro.Name = "btnEliminarRegistro";
             this.btnEliminarRegistro.Size = new System.Drawing.Size(181, 37);
             this.btnEliminarRegistro.TabIndex = 15;
             this.btnEliminarRegistro.Text = "Eliminar";
             this.btnEliminarRegistro.UseVisualStyleBackColor = false;
+            this.btnEliminarRegistro.Click += new System.EventHandler(this.btnEliminarRegistro_Click);
             // 
             // btnEditarReg
             // 
@@ -386,7 +387,7 @@
             this.btnEditarReg.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
             this.btnEditarReg.ForeColor = System.Drawing.Color.White;
             this.btnEditarReg.Location = new System.Drawing.Point(853, 158);
-            this.btnEditarReg.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnEditarReg.Margin = new System.Windows.Forms.Padding(4);
             this.btnEditarReg.Name = "btnEditarReg";
             this.btnEditarReg.Size = new System.Drawing.Size(181, 37);
             this.btnEditarReg.TabIndex = 14;
@@ -402,7 +403,7 @@
             this.btnNuevoRegistro.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
             this.btnNuevoRegistro.ForeColor = System.Drawing.Color.White;
             this.btnNuevoRegistro.Location = new System.Drawing.Point(853, 103);
-            this.btnNuevoRegistro.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnNuevoRegistro.Margin = new System.Windows.Forms.Padding(4);
             this.btnNuevoRegistro.Name = "btnNuevoRegistro";
             this.btnNuevoRegistro.Size = new System.Drawing.Size(181, 37);
             this.btnNuevoRegistro.TabIndex = 13;
@@ -418,12 +419,13 @@
             this.btnGuardaNuevo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
             this.btnGuardaNuevo.ForeColor = System.Drawing.Color.White;
             this.btnGuardaNuevo.Location = new System.Drawing.Point(853, 359);
-            this.btnGuardaNuevo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnGuardaNuevo.Margin = new System.Windows.Forms.Padding(4);
             this.btnGuardaNuevo.Name = "btnGuardaNuevo";
             this.btnGuardaNuevo.Size = new System.Drawing.Size(181, 37);
             this.btnGuardaNuevo.TabIndex = 12;
             this.btnGuardaNuevo.Text = "Guardar Nuevo";
             this.btnGuardaNuevo.UseVisualStyleBackColor = false;
+            this.btnGuardaNuevo.Click += new System.EventHandler(this.btnGuardaNuevo_Click);
             // 
             // Personal
             // 
@@ -441,7 +443,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Personal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Personal";

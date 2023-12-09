@@ -29,8 +29,8 @@ namespace ProyectoISW
         private void login()
         {
             NpgsqlConnection cn = new NpgsqlConnection();
-            string consulta = "select user, contrasena from login where usuario='" + txtUser.Text + "' and contrasena='" + txtPassword.Text + "'";
-            cn.ConnectionString = "Username=postgres; Password=1234;Host=localhost;Port=5434;Database=proyecto";
+            string consulta = "select usuario, pasword from usuario where usuario='" + txtUser.Text + "' and pasword='" + txtPassword.Text + "'";
+            cn.ConnectionString = "server=localhost;User Id=postgres; password=1234567;Database=bdplanilla";
             cn.Open();
 
             NpgsqlCommand cmd = new NpgsqlCommand(consulta, cn);
@@ -81,7 +81,10 @@ namespace ProyectoISW
                 txtPassword.PasswordChar = '*';
             }
         }
-       
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -155,5 +155,15 @@ namespace ProyectoISW
                 textBox4.Text = row.Cells["pasword"].Value.ToString();
             }
         }
+
+        private void btnGuardaNuevo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnGuardarMod_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

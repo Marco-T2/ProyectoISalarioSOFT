@@ -37,7 +37,7 @@ namespace ProyectoISW
 
         private void actualizarTabla()
         {
-            NpgsqlDataAdapter da = new NpgsqlDataAdapter("SELECT id, nombre,nacionalidad,fechanacimiento,sexo, fecha_ingreso,cargoocupacion,haber_basico FROM personal;", conexion);
+            NpgsqlDataAdapter da = new NpgsqlDataAdapter("SELECT id, nombre,nacionalidad,fechanacimiento,sexo, fecha_ingreso,cargoocupacion,haber_basico FROM personal order by id asc;", conexion);
             DataTable dt = new DataTable();
             da.Fill(dt);
 
@@ -94,21 +94,26 @@ namespace ProyectoISW
             // Agregar un ítem predeterminado "Escoger"
             comboBox1.Items.Add("Seleccionar");
 
-            NpgsqlDataAdapter da = new NpgsqlDataAdapter("Select cargoocupacion from personal group by cargoocupacion;", conexion);
+            NpgsqlDataAdapter da = new NpgsqlDataAdapter("SELECT cargoocupacion FROM personal GROUP BY cargoocupacion;", conexion);
             DataTable dt = new DataTable();
-            da.Fill(dt);
-
 
             try
             {
                 conexion.Open();
                 da.Fill(dt);
 
+                // Limpiar ComboBox antes de agregar elementos
+                comboBox1.Items.Clear();
+                comboBox1.Items.Add("Seleccionar");
+
                 // Agregar cada nombre al ComboBox
                 foreach (DataRow row in dt.Rows)
                 {
                     comboBox1.Items.Add(row["cargoocupacion"].ToString());
                 }
+
+                // Seleccionar el ítem predeterminado "Seleccionar"
+                comboBox1.SelectedIndex = 0;
             }
             catch (Exception ex)
             {
@@ -257,7 +262,78 @@ namespace ProyectoISW
 
         private void btnGuardarMod_Click(object sender, EventArgs e)
         {
+            try
+            {
+                conexion.Open();
+                String actualizar = "UPDATE personal SET nombre='" + textBox1.Text+ "',nacionalidad='" + comboBox2.Text+ "',fechanacimiento='" + dateTimePicker1.Text+ "',sexo='" + comboBox3.Text+ "',fecha_ingreso='" + dateTimePicker2.Text+ "', cargoocupacion='" + comboBox1.Text+ "',haber_basico='" + textBox2.Text+"' WHERE id = " + label9.Text+"";
+                NpgsqlCommand cmd = new NpgsqlCommand(actualizar, conexion);
+                cmd.ExecuteNonQuery();
+                conexion.Close();
+                MessageBox.Show("El registro actualizado ");
+                actualizarTabla();
 
+            }
+            catch (InvalidCastException ex)
+            {
+
+                throw ex;
+            }
+        }
+
+        private void btnGuardaNuevo_Click(object sender, EventArgs e)
+        {
+            string actualizar = "INSERT INTO personal(nombre, nacionalidad, fechanacimiento, sexo, fecha_ingreso, cargoocupacion, haber_basico) VALUES (@nombre, @nacionalidad, @fechanacimiento, @sexo, @fechaingreso, @cargoocupacion, @haberbasico)";
+            NpgsqlCommand cmd = new NpgsqlCommand(actualizar, conexion);
+
+            // Asegúrate de configurar los parámetros con los tipos de datos correctos
+            cmd.Parameters.AddWithValue("@nombre", textBox1.Text);
+            cmd.Parameters.AddWithValue("@nacionalidad", comboBox1.Text);
+            cmd.Parameters.AddWithValue("@fechanacimiento", dateTimePicker1.Value);
+            cmd.Parameters.AddWithValue("@sexo", comboBox3.Text);
+            cmd.Parameters.AddWithValue("@fechaingreso", dateTimePicker2.Value);
+            cmd.Parameters.AddWithValue("@cargoocupacion", comboBox2.Text);
+            cmd.Parameters.AddWithValue("@haberbasico", Convert.ToDecimal(textBox2.Text)); // Ajusta el tipo de dato según corresponda
+
+            try
+            {
+                conexion.Open();
+                cmd.ExecuteNonQuery();
+                conexion.Close();
+                MessageBox.Show("El registro insertado");
+                actualizarTabla();
+            }
+            catch (Exception ex)
+            {
+                // Manejo de errores
+                Console.WriteLine("Error: " + ex.Message);
+            }
+            finally
+            {
+                if (conexion.State == ConnectionState.Open)
+                {
+                    conexion.Close();
+                }
+            }
+        }
+
+        private void btnEliminarRegistro_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                conexion.Open();
+                String actualizar = "DELETE FROM personal where id='" + label9.Text + "'";
+                NpgsqlCommand cmd = new NpgsqlCommand(actualizar, conexion);
+                cmd.ExecuteNonQuery();
+                conexion.Close();
+                MessageBox.Show("El registro eliminado");
+                actualizarTabla();
+
+            }
+            catch (InvalidCastException ex)
+            {
+
+                throw ex;
+            }
         }
     }
 }
